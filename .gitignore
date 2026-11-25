@@ -1,0 +1,33 @@
+# ModelSim 自动生成的仿真库和文件
+work/
+transcript
+vsim.wlf
+*.wlf
+modelsim.ini
+
+# Vivado XSIM 自动生成的文件
+xsim.dir/
+.Xil/
+*.jou
+*.pb
+*.wdb
+xvlog.log
+xelab.log
+xsim.log
+
+# VCS 自动生成的文件
+simv
+simv.daidir/
+csrc/
+ucli.key
+*.vpd
+*.vdb/
+
+# 波形原始数据通常很大
+*.vcd
+*.fsdb
+
+# 操作系统临时文件
+Thumbs.db
+.DS_Store
+digital-ide-xsim-patch/
